@@ -1,0 +1,185 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Sweet Ice Cream Photography",
+				"url": "http://image.noelshack.com/fichiers/2016/40/1475694936-pikachu-head-pixel-art-pixel-art.png",
+				"thumbUrl": "http://image.noelshack.com/fichiers/2016/40/1475694936-pikachu-head-pixel-art-pixel-art.png",
+				"name": "Ceningan island, Indonesia",
+                "category": "people"
+			},
+            {
+				"author": "Samuel Zeller",
+				"url": "https://s-media-cache-ak0.pinimg.com/736x/3f/52/f0/3f52f054f4e834122d637a19cb7609a3.jpg",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/736x/3f/52/f0/3f52f054f4e834122d637a19cb7609a3.jpg",
+				"name": "London",
+                "category": "architecture"
+			},
+            {
+				"author": "Kevin Young",
+				"url": "http://www.cybercentre-guerande.fr/IMG/arton509.jpg?1484736243",
+				"thumbUrl": "http://www.cybercentre-guerande.fr/IMG/arton509.jpg?1484736243",
+				"name": "City 1067",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Aleksandra Boguslawska",
+				"url": "https://i.skyrock.net/2967/96162967/pics/3268445814_1_6_pwr6PnJw.jpg",
+				"thumbUrl": "https://i.skyrock.net/2967/96162967/pics/3268445814_1_6_pwr6PnJw.jpg",
+				"name": "Mountain 1045",
+                "category": "mountain"
+			},
+            {
+				"author": "Steve Carter",
+				"url": "http://blogues.csaffluents.qc.ca/entramis4/files/2015/04/image.jpg",
+				"thumbUrl": "http://blogues.csaffluents.qc.ca/entramis4/files/2015/04/image.jpg",
+				"name": "Crescent City, United States",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Christian Joudrey",
+				"url": "https://s-media-cache-ak0.pinimg.com/736x/d0/70/b9/d070b970aa8f45793c7fb08dfc8002da.jpg",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/736x/d0/70/b9/d070b970aa8f45793c7fb08dfc8002da.jpg",
+				"name": "Yosemite National Park, United States",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Eric Huang",
+				"url": "https://s-media-cache-ak0.pinimg.com/236x/e4/d0/e5/e4d0e584e95c2900cf50cd1955b28032--emoticon-pixel-art.jpg",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/236x/e4/d0/e5/e4d0e584e95c2900cf50cd1955b28032--emoticon-pixel-art.jpg",
+				"name": "Taipei City, Taiwan",
+                "category": "forest"
+			},
+            {
+				"author": "Sebastien Gabriel",
+				"url": "http://mag.mo5.com/wp-content/uploads/2015/12/simpsons-pixelart.png",
+				"thumbUrl": "http://mag.mo5.com/wp-content/uploads/2015/12/simpsons-pixelart.png",
+				"name": "Sunset 987",
+                "category": "mountain,sunset"
+			},
+            {
+				"author": "Hide Obara",
+				"url": "https://s-media-cache-ak0.pinimg.com/736x/cd/14/39/cd1439026795cf1c6ccd104debbe46c5.jpg",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/736x/cd/14/39/cd1439026795cf1c6ccd104debbe46c5.jpg",
+				"name": "City 985",
+                "category": "city"
+			},
+            {
+				"author": "Fritz Bielmeier",
+				"url": "https://pixbits.files.wordpress.com/2012/10/jerzeeshadowpixel.jpg",
+				"thumbUrl": "https://pixbits.files.wordpress.com/2012/10/jerzeeshadowpixel.jpg",
+				"name": "Sunset 991",
+                "category": "forest,sunset"
+			},
+            {
+				"author": "Sven Scheuermeier",
+				"url": "http://a3.mzstatic.com/us/r30/Purple3/v4/6e/32/11/6e32119e-aa11-c38a-1475-d0242855fa7e/screen1136x1136.jpeg",
+				"thumbUrl": "http://a3.mzstatic.com/us/r30/Purple3/v4/6e/32/11/6e32119e-aa11-c38a-1475-d0242855fa7e/screen1136x1136.jpeg",
+				"name": "Mountain 961",
+                "category": "mountain"
+			},
+            {
+				"author": "Mike Petrucci",
+				"url": "http://a4.mzstatic.com/us/r30/Purple71/v4/4c/f1/8f/4cf18fa3-1a9b-29a3-b585-1d676ccf30b6/sc552x414.jpeg",
+				"thumbUrl": "http://a4.mzstatic.com/us/r30/Purple71/v4/4c/f1/8f/4cf18fa3-1a9b-29a3-b585-1d676ccf30b6/sc552x414.jpeg",
+				"name": "Forest 957",
+                "category": "forest"
+			},
+            {
+				"author": "Noah Baslé",
+				"url": "https://s-media-cache-ak0.pinimg.com/originals/da/d6/99/dad699205d00e53a8c37599299ca4436.jpg",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/originals/da/d6/99/dad699205d00e53a8c37599299ca4436.jpg",
+				"name": "Entrepierres, Sisteron, France",
+                "category": "nature"
+			},
+            {
+				"author": "Paulo Simões Mendes",
+				"url": "http://a5.mzstatic.com/us/r30/Purple71/v4/99/d2/ca/99d2ca3a-afc1-37b6-e6e6-02ae563b98e2/screen520x924.jpeg",
+				"thumbUrl": "http://a5.mzstatic.com/us/r30/Purple71/v4/99/d2/ca/99d2ca3a-afc1-37b6-e6e6-02ae563b98e2/screen520x924.jpeg",
+				"name": "Oleiros, Portugal",
+                "category": "satellite"
+			},
+            {
+				"author": "Sergei Akulich",
+				"url": "https://s-media-cache-ak0.pinimg.com/236x/d3/1b/2a/d31b2ae3f6881d38ed1aadb177eb6a5f.jpg?noindex=1",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/236x/d3/1b/2a/d31b2ae3f6881d38ed1aadb177eb6a5f.jpg?noindex=1",
+				"name": "Lake Ingalls, United States",
+                "category": "nature,animal"
+			},
+            {
+				"author": "Tim Swaan",
+				"url": "https://s-media-cache-ak0.pinimg.com/736x/71/7c/42/717c42d66927b20d1cb8b2e95baa662c.jpg",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/736x/71/7c/42/717c42d66927b20d1cb8b2e95baa662c.jpg",
+				"name": "Whangarei Falls, Whangarei, New Zealand",
+                "category": "forest,nature"
+			},
+            {
+				"author": "Tiago Aguiar",
+				"url": "https://s-media-cache-ak0.pinimg.com/originals/2e/3d/7f/2e3d7f755a5003948a77607c65c3be84.png",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/originals/2e/3d/7f/2e3d7f755a5003948a77607c65c3be84.png",
+				"name": "Beach 851",
+                "category": "ocean,beach"
+			},
+            {
+				"author": "Josh Felise",
+				"url": "https://s-media-cache-ak0.pinimg.com/originals/cd/51/41/cd5141b5d986408e3ed849010757158b.png",
+				"thumbUrl": "https://s-media-cache-ak0.pinimg.com/originals/cd/51/41/cd5141b5d986408e3ed849010757158b.png",
+				"name": "Wolf 718",
+                "category": "animal"
+			},
+           
+            {
+                "author":"Test",
+                "url": "https://s-media-cache-ak0.pinimg.com/originals/cd/51/41/cd5141b5d986408e3ed849010757158b.png",
+                "thumbUrl": "https://s-media-cache-ak0.pinimg.com/originals/cd/51/41/cd5141b5d986408e3ed849010757158b.png",
+                "name": "Flowers peonies bicycle",
+                "category": "Forest,people"
+            }
+		]
+}
